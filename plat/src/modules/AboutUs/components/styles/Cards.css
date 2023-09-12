@@ -1,0 +1,9 @@
+.cards{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    justify-content: center;
+    padding-top: 5rem;
+    background-color: #e9f6fc;
+}
